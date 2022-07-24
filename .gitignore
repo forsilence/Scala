@@ -54,3 +54,6 @@ Thumbs.db%
 # virtualenv
 venv/
 ENV/
+
+#vscode
+.vscode
